@@ -1,0 +1,15 @@
+.wrapper {
+  background-color: hsl(212, 45%, 89%);
+  font-size: 15px;
+  font-family: "Outfit", sans-serif;
+}
+
+.heading {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  font-size: 20px;
+}
+.deiscription {
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+}
